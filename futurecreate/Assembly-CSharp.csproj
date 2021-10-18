@@ -53,9 +53,10 @@
     <UnityVersion>2020.3.19f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Isobe\Script\DangerAction.cs" />
     <Compile Include="Assets\Isobe\Script\Danger.cs" />
     <Compile Include="Assets\Isobe\Script\DangerONOFF.cs" />
-    <Compile Include="Assets\Isobe\Script\DangerAction.cs" />
+    <Compile Include="Assets\totsu\script\ring.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
